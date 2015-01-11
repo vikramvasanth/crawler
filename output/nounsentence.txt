@@ -1,0 +1,26 @@
+• Minimum of 5 years Linux Systems Administration
+
+• Proficient in bash and perl or python
+
+• Bare metal/vm full-stack app-server automation
+
+• Expert level linux server networking, VLANs, bridges, and static routes
+
+• Linux application debugging (identify blocking and inefficient system and application (C, perl, python, and java) processes
+
+• Ability to tune linux kernel to optimize performance
+
+• Rpm packaging (build, test, and deploy)
+
+• Experience building and iterating through cobbler/kickstart, puppet modules, chef recipes, and shell/perl/python scripts
+
+• Experience setting up database systems (e.g. replication, active/active)
+
+• Knowledge of SQL, ability to query and join tables
+
+• Experience with apache and nginx (proxy and reverse proxy configuration, server load balancing, and site configs)
+
+• Experience provisioning public and private clouds (AWS, Rackspace, CloudStack, OpenStack, VMWare, KVM, and Xen)
+
+
+
